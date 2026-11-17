@@ -1,0 +1,4 @@
+[master c1b9d06] commitng a file
+ 2 files changed, 1 insertion(+)
+ create mode 100644 f1.txt
+ create mode 160000 git3
